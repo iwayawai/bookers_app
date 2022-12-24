@@ -13,3 +13,35 @@
  *= require_tree .
  *= require_self
  */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1,h2,h4{
+  margin:15px;
+}
+table{
+border-collapse: separate;
+border-spacing:5px;
+margin-left: 15px;
+}
+
+.field,.area,.button{
+  margin:10px;
+}
+
+p{
+  display: inline-block;
+  margin:10px;
+}
+
+strong{
+  display:block;
+  margin:20px;
+}
+
+
+
+  
