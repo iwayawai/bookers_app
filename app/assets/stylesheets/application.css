@@ -32,9 +32,8 @@ margin-left: 15px;
   margin:10px;
 }
 
-p{
-  display: inline-block;
-  margin:10px;
+body{
+  margin:20px;
 }
 
 strong{
@@ -42,6 +41,13 @@ strong{
   margin:20px;
 }
 
+p{
+  display:inline-block;
+  margin:20px;
+}
 
+#top{
+  margin:15px;
+}
 
   
